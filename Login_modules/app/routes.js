@@ -61,13 +61,13 @@ module.exports = function(app, passport) {
 		res.redirect('/');
 	});
 
-	app.post("/logActions", function(req,res){
+	app.options("/logActions", function(req,res){
 		// var a = req.body["Content-Type"];
 		// var b = req.body["Content"];
 		// req.user.local.activity.push({ "ActivityType": a, "Content": b});
 		
 		// req.user.save();
-		// res.status(200).send();
+		res.status(200).send();
 	});
 };
 
