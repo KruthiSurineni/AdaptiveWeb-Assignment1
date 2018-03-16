@@ -1,0 +1,38 @@
+[
+    {"_id":{
+        "$oid":"59ae828d573475a8347afffd"},
+    "local":{
+        "password":"$2a$08$BDhLL4mZkooOiqC/TK32AeiPHsT6.6I8Mip1CSah6UulLc6NKn1XC",
+        "username":"aaa",
+        "loginHistory":[
+            "09/05/2017 03:55:09",
+            "09/05/2017 03:55:32 ",
+            "09/05/2017 04:10:27 ",
+            "09/05/2017 04:11:26 ",
+            "09/05/2017 04:14:50",
+            "09/05/2017 04:31:32",
+            "09/06/2017 23:59:22"]},
+        "__v":6},
+    
+    {"_id":{
+        "$oid":"59af9f33f8f4d3fc2b2b43cb"},
+        "local":{
+            "password":"$2a$08$OV3noKn7XuzVmKq71/43Be4rp3mpn7n28J1h90TMqMM/juZffD316",
+            "username":"bbb",
+            "loginHistory":[
+                "09/06/2017 00:09:39",
+                "09/06/2017 00:12:16",
+                "09/07/2017 12:37:53",
+                "09/07/2017 13:01:26"]},
+                "__v":3},
+    
+    {"_id":{
+        "$oid":"59b1a94a783c37082e36d5d6"},
+        "local":{
+            "password":"$2a$08$sVJeB64EAmQVMo2N6aG5au5P58adi3kjztxCYmkHrL9HEVyPCxyZW",
+            "username":"ccc",
+            "loginHistory":[
+                            "09/07/2017 13:17:14",
+                            "09/07/2017 13:35:28"]},
+    "__v":1}
+]
